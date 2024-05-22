@@ -1,0 +1,18 @@
+.navbar {
+  display: flex;
+}
+
+.nav-item {
+  margin-right: 10px;
+  cursor: pointer;
+}
+
+.tap{
+  background-color: aliceblue;
+  padding: 10px;
+}
+
+.image{
+  max-width: 100%;
+  max-height: 220px;
+}
